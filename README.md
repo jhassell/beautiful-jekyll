@@ -1,2 +1,1 @@
-# John Hassell's site
-
+# John Hassell's Github website.
