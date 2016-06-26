@@ -1,6 +1,8 @@
 ---
 layout: post
-title: First post!
+title: Great links
 ---
 
-This is my first post, how exciting!
+Big fan of the following:
+     Paul Grahams essays on entrepreneurship http://www.paulgraham.com/articles.html
+     
