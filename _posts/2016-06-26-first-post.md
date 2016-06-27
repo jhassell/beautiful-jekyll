@@ -4,7 +4,9 @@ title: Great links
 ---
 
 Paul Graham's [essays] on entrepreneurship.
+
 [Code Complete] second edition, words to code and live by.
+
 [Udemy], learned quite a bit from this site.
 
 
