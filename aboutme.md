@@ -18,5 +18,5 @@ Intriqued by the quick prototyping of the Raspberry Pi and the Beaglebone (like 
 
 And... I've got four degrees (from both state and private universities) and a couple of technical certifications (Cisco CCNA expired and Solidworks CWSA) for fun.
 
-
+Love to have fun.
 
