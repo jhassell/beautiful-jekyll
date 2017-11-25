@@ -24,7 +24,7 @@ description: Website of information and links that are on my mind.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  About Me 2: "about2"
+  About Me 2: "downloads"
   Resources:
     - GitHub Pages: "https://jhassell.github.io/"
 
